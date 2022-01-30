@@ -10,10 +10,14 @@ def build_list_of_bohs
   output = "<ul>"
   data = JSON.parse(File.read("data.json"))
   data.each do |map|
-    output << "<li>\n"
+    description = map['description'] || '<i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is no description yet for this video! Care to donate one?</i>'
+    description = "<span>#{description}</span>"
+      output << "<li>\n"
     output << "  <a href=\"#{map['url']}\" rel=\"nofollow\">\n"
     output << "    <span>#{map['name']}</span> on <span>#{map['date']}</span>\n"
     output << "  </a>\n"
+    output << "  <br/>\n"
+    output << "  #{description}\n"
     output << "</li>\n"
     output << "\n"
   end
