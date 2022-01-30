@@ -1,11 +1,6 @@
 #!/usr/bin/env ruby
 require 'json'
 
-SUFFIX = <<EOF
-  </body>
-</html>
-EOF
-
 def build_list_of_bohs
   output = "<ul>"
   data = JSON.parse(File.read("data.json"))
@@ -36,7 +31,11 @@ def build_html(content)
 
     outf.puts content
 
-    outf.puts SUFFIX
+    File.open("suffix.html", "r") do |inf|
+      inf.each_line do |line|
+        outf.puts line
+      end
+    end
   end
 end
 
