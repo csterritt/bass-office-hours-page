@@ -86,6 +86,16 @@
   },
   {
     "name": "Ozzy",
+    "date": "9/30/2021",
+    "url": "https://www.facebook.com/ozzyatfender/videos/557549702137170"
+  },
+  {
+    "name": "Ozzy",
+    "date": "9/23/2021",
+    "url": "https://www.facebook.com/ozzyatfender/videos/398802531627609"
+  },
+  {
+    "name": "Ozzy",
     "date": "9/16/2021",
     "url": "https://www.facebook.com/ozzyatfender/videos/862788507548038"
   },
@@ -99,6 +109,11 @@
     "name": "Chelsea",
     "date": "9/2/2021",
     "url": "https://www.facebook.com/ChelseaatFender/videos/535725481018354"
+  },
+  {
+    "name": "Ozzy",
+    "date": "8/26/2021",
+    "url": "https://www.facebook.com/ozzyatfender/videos/2541348155999659"
   },
   {
     "name": "Chelsea",
@@ -116,6 +131,11 @@
     "date": "8/5/2021",
     "url": "https://www.facebook.com/ChelseaatFender/videos/853725425281453",
     "description": "Let's learn the Nashville Number System!"
+  },
+  {
+    "name": "Ozzy",
+    "date": "7/29/2021",
+    "url": "https://www.facebook.com/ozzyatfender/videos/185634016929795"
   },
   {
     "name": "Chelsea",
@@ -194,6 +214,11 @@
     "name": "Chelsea",
     "date": "4/22/2021",
     "url": "https://www.facebook.com/ChelseaatFender/videos/293659788964520"
+  },
+  {
+    "name": "Ozzy",
+    "date": "4/15/2021",
+    "url": "https://www.facebook.com/ozzyatfender/videos/868934303689904"
   },
   {
     "name": "Chelsea",
@@ -298,5 +323,10 @@
     "name": "Chelsea",
     "date": "10/29/2020",
     "url": "https://www.facebook.com/chelsteves/videos/10220662659770102"
+  },
+  {
+    "name": "Nikki",
+    "date": "6/13/2020",
+    "url": "https://www.facebook.com/nikki.fender.370/videos/715900222478039"
   }
 ]
