@@ -1,23 +1,33 @@
 [
   {
     "name": "Nick",
+    "date": "2/3/2022",
+    "url": "https://www.facebook.com/110009371541056/videos/316651350404777",
+    "description": "Scales week 5"
+  },
+  {
+    "name": "Nick",
     "date": "1/27/2022",
-    "url": "https://www.facebook.com/NickChamian/videos/2590978021046785"
+    "url": "https://www.facebook.com/NickChamian/videos/2590978021046785",
+    "description": "Scales week 4"
   },
   {
     "name": "Nick",
     "date": "1/20/2022",
-    "url": "https://www.facebook.com/NickChamian/videos/1270031010133377/"
+    "url": "https://www.facebook.com/NickChamian/videos/1270031010133377/",
+    "description": "Scales week 3"
   },
   {
     "name": "Nick",
     "date": "1/13/2022",
-    "url": "https://www.facebook.com/NickChamian/videos/288796783121158"
+    "url": "https://www.facebook.com/NickChamian/videos/288796783121158",
+    "description": "Scales week 2"
   },
   {
     "name": "Nick",
     "date": "1/6/2022",
-    "url": "https://www.facebook.com/NickChamian/videos/2421001014714521"
+    "url": "https://www.facebook.com/NickChamian/videos/2421001014714521",
+    "description": "Scales week 1"
   },
   {
     "name": "Dylan",
