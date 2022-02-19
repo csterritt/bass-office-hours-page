@@ -1,6 +1,12 @@
 [
   {
     "name": "Nick",
+    "date": "2/17/2022",
+    "url": "https://www.facebook.com/NickChamian/videos/5609968052350959",
+    "description": "Scales week 7 (currently marked on FB as 'Week 6')"
+  },
+  {
+    "name": "Nick",
     "date": "2/10/2022",
     "url": "https://www.facebook.com/NickChamian/videos/266200455588210",
     "description": "Scales week 6"
@@ -329,10 +335,5 @@
     "name": "Chelsea",
     "date": "10/29/2020",
     "url": "https://www.facebook.com/chelsteves/videos/10220662659770102"
-  },
-  {
-    "name": "Nikki",
-    "date": "6/13/2020",
-    "url": "https://www.facebook.com/nikki.fender.370/videos/715900222478039"
   }
 ]
